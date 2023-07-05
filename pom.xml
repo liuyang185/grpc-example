@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <properties>
-        <grpc.version>1.6.1</grpc.version>
+        <grpc.version>1.53.0</grpc.version>
         <jdk.version>1.8</jdk.version>
         <protoc.version>3.3.0</protoc.version>
         <kr.motd.version>1.5.0.Final</kr.motd.version>
